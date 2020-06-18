@@ -1,0 +1,142 @@
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\BookApplication.dll.config
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\BookApplication.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\BookApplication.pdb
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\csc.exe
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\csc.exe.config
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\csc.rsp
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\csi.exe
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\csi.exe.config
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\csi.rsp
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.Console.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\vbc.exe
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\vbc.exe.config
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\vbc.rsp
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\Antlr3.Runtime.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\Newtonsoft.Json.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\System.Web.Optimization.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\WebGrease.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\System.Web.Optimization.xml
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\Newtonsoft.Json.xml
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\obj\Debug\BookApplication.csprojAssemblyReference.cache
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\obj\Debug\BookApplication.csproj.CoreCompileInputs.cache
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\obj\Debug\BookApplication.csproj.CopyComplete
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\obj\Debug\BookApplication.dll
+C:\Users\Jamie.Downie\Documents\Visual Studio 2017\Projects\BookApplication\BookApplication\obj\Debug\BookApplication.pdb
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\BookApplication.dll.config
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\BookApplication.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\BookApplication.pdb
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\csc.exe
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\csc.exe.config
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\csc.rsp
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\csi.exe
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\csi.exe.config
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\csi.rsp
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.AppContext.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.Console.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\vbc.exe
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\vbc.exe.config
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\vbc.rsp
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\Antlr3.Runtime.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\Newtonsoft.Json.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\System.Web.Optimization.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\WebGrease.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\System.Web.Optimization.xml
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\Newtonsoft.Json.xml
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\Antlr3.Runtime.pdb
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\jamie\Work\BookApplication\BookApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jamie\Work\BookApplication\BookApplication\obj\Debug\BookApplication.csprojAssemblyReference.cache
+C:\Users\jamie\Work\BookApplication\BookApplication\obj\Debug\BookApplication.csproj.CoreCompileInputs.cache
+C:\Users\jamie\Work\BookApplication\BookApplication\obj\Debug\BookApplication.csproj.CopyComplete
+C:\Users\jamie\Work\BookApplication\BookApplication\obj\Debug\BookApplication.dll
+C:\Users\jamie\Work\BookApplication\BookApplication\obj\Debug\BookApplication.pdb

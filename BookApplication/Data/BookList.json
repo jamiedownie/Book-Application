@@ -1,0 +1,29 @@
+
+  [
+    {
+      "ID": 1,
+      "Title": "Great Expectations",
+      "Author": "Charles Dickens",
+      "Price": 5
+    },
+    {
+      "ID": 2,
+      "Title": "Dune",
+      "Author": "Frank Herbert",
+      "Price": 6
+    },
+    {
+      "ID": 3,
+      "Title": "The War of the Worlds",
+      "Author": "H G Wells",
+      "Price": 4
+    },
+    {
+      "ID": 4,
+      "Title": "Frankenstein",
+      "Author": "Mary Shelley",
+      "Price": 85
+    }
+  ]
+
+
